@@ -52,3 +52,45 @@ A AZ-900 é a porta de entrada para o universo da computação em nuvem com a Mi
 - Base sólida para certificações mais avançadas como AZ-104 (Admin) ou AZ-204 (Developer)
 
 ---
+
+# 🚀 Projeto: Consolidação de Conhecimentos em Máquinas Virtuais na Azure
+
+Este projeto foi desenvolvido com o objetivo de aplicar na prática os conceitos aprendidos sobre máquinas virtuais (VMs) na plataforma Microsoft Azure. Ao longo do desafio, foram criadas e configuradas VMs, documentados os processos técnicos e analisadas as funcionalidades oferecidas pela nuvem da Microsoft.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Aplicar os conhecimentos adquiridos em um ambiente real da Azure
+- Criar e configurar máquinas virtuais Linux e Windows
+- Documentar os processos técnicos de forma clara e estruturada
+- Compreender aspectos de escalabilidade, segurança e gerenciamento de recursos
+
+---
+
+## 🛠️ Etapas Realizadas
+
+### 1. Criação de Máquinas Virtuais
+- ✅ VM Linux (Ubuntu Server 22.04 LTS)
+- ✅ VM Windows Server 2022
+- Configuração de tamanho, disco, rede virtual e grupo de segurança
+
+### 2. Configuração de Acesso
+- Criação de regras de NSG para permitir acesso via SSH (Linux) e RDP (Windows)
+- Testes de conectividade com IP público
+
+### 3. Instalação de Serviços
+- Linux: Apache, MySQL e PHP (LAMP Stack)
+- Windows: IIS e configuração de página web padrão
+
+### 4. Monitoramento e Gerenciamento
+- Utilização do Azure Monitor para acompanhar métricas de CPU, memória e disco
+- Configuração de alertas e logs de diagnóstico
+
+### 5. Encerramento e Limpeza
+- Encerramento das VMs
+- Exclusão de recursos para evitar cobranças adicionais
+
+---
+
+
