@@ -90,7 +90,36 @@ Este projeto foi desenvolvido com o objetivo de aplicar na prática os conceitos
 ### 5. Encerramento e Limpeza
 - Encerramento das VMs
 - Exclusão de recursos para evitar cobranças adicionais
+  
+---
+
+### ☁️ Tipos de Serviços na Nuvem – Resumo
+
+A computação em nuvem oferece diferentes **modelos de serviço**, cada um com níveis variados de controle, flexibilidade e responsabilidade:
+
+#### 1. **IaaS (Infraestrutura como Serviço)**
+- 🧱 Você aluga recursos básicos de TI: servidores, armazenamento, redes.
+- ⚙️ Ideal para empresas que querem controle total sobre o ambiente.
+- 📌 Exemplo: Microsoft Azure, Amazon EC2.
+
+#### 2. **PaaS (Plataforma como Serviço)**
+- 🛠️ Fornece ambiente para desenvolvimento e hospedagem de aplicativos.
+- 👨‍💻 Você foca no código e na lógica do app, sem se preocupar com servidores.
+- 📌 Exemplo: Google App Engine, Azure App Service.
+
+#### 3. **SaaS (Software como Serviço)**
+- 💻 Aplicações prontas acessadas via navegador, sem instalação local.
+- 🧑‍💼 Ideal para usuários finais que precisam de software funcional sem gerenciar nada.
+- 📌 Exemplo: Microsoft 365, Google Workspace, Salesforce.
 
 ---
 
+### 🔄 Comparando os Modelos
 
+| Modelo   | Você gerencia | O provedor gerencia | Exemplo de uso |
+|----------|----------------|----------------------|----------------|
+| **IaaS** | Sistema operacional, apps | Hardware, rede, armazenamento | Criar máquinas virtuais |
+| **PaaS** | Aplicações e dados | Infraestrutura + sistema operacional | Desenvolver apps web |
+| **SaaS** | Apenas uso do software | Tudo (infra + software) | Usar email, CRM, planilhas |
+
+---
